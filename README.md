@@ -1,2 +1,2 @@
-# TIme_Managment
+# Time Managment
 Time Managment Project with Data Structure
